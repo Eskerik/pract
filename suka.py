@@ -28,3 +28,4 @@ elif a == 3:
     print('bot ubral 2 kamnya i pobedil')
 elif a == 4:
     print('bot ubral 3 kamnya i pobedil')
+print('igra okonchena')
